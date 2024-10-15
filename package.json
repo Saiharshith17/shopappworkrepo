@@ -17,7 +17,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "deployToGitHub": "npm run build && gh-pages -d build",
+    "deployToGitHub": "npm run build && gh-pages -b master -d build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
