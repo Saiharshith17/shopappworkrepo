@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Saiharshith17/shopappworkrepo/static/css/main.55dd414b.css",
+    "main.js": "/Saiharshith17/shopappworkrepo/static/js/main.48bbe903.js",
+    "static/js/453.c525d7c0.chunk.js": "/Saiharshith17/shopappworkrepo/static/js/453.c525d7c0.chunk.js",
+    "index.html": "/Saiharshith17/shopappworkrepo/index.html",
+    "main.55dd414b.css.map": "/Saiharshith17/shopappworkrepo/static/css/main.55dd414b.css.map",
+    "main.48bbe903.js.map": "/Saiharshith17/shopappworkrepo/static/js/main.48bbe903.js.map",
+    "453.c525d7c0.chunk.js.map": "/Saiharshith17/shopappworkrepo/static/js/453.c525d7c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55dd414b.css",
+    "static/js/main.48bbe903.js"
+  ]
+}
